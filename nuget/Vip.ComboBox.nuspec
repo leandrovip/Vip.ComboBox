@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Vip.ComboBox</id>
+    <version>1.0.0</version>
+    <authors>Leandro Ferreira</authors>
+    <owners>VIP Soluções</owners>
+    <projectUrl>https://github.com/leandrovip/Vip.ComboBox</projectUrl>
+    <description>This is a ComboBox control with a better suggestion list</description>
+    <copyright>Copyright 2020</copyright>
+    <tags>vip combobox autocomplete suggestion winforms</tags>
+    <dependencies>
+      <group targetFramework="net48" />
+    </dependencies>
+  </metadata>
+  <files>
+        <file src="..\src\Vip.ComboBox\bin\Release\Vip.ComboBox.dll" target="lib\net48\Vip.ComboBox.dll"/>
+    </files>
+</package>
